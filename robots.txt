@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eymilinaw.github.io/sitemap
+Sitemap: https://eymilinaw.github.io/app/sitemap
+Sitemap: https://eymilinaw.github.io/assets/sitemap
+Sitemap: https://eymilinaw.github.io/css/sitemap
+Sitemap: https://eymilinaw.github.io/includes/sitemap
+Sitemap: https://eymilinaw.github.io/item/sitemap
+Sitemap: https://eymilinaw.github.io/src/sitemap
